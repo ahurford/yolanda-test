@@ -1,0 +1,14 @@
+--- 
+title: "Conservation GIS Using R"
+author: "Dr. Yolanda Wiersma, Memorial University"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook #bookdown::html_document2
+documentclass: book
+link-citations: false
+git-hub-repo: nlboreal/ConservationGIS
+description: "Quantitative R skills for GIS and Spatial Analysis"
+---
+
+
+
